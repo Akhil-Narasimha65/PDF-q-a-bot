@@ -10,7 +10,7 @@ from langchain.embeddings import OpenAIEmbeddings
 import re
 
 # Set your OpenAI API key
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 
 # Function to process the PDF
 def process_pdf(file):
